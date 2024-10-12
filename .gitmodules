@@ -1,0 +1,3 @@
+[submodule "dependencies/BattleBugs"]
+	path = dependencies/BattleBugs
+	url = https://github.com/owenjb42/BattleBugs
